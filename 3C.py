@@ -16,8 +16,8 @@ def printPoly(poly, b):
 			print(" + ", end = "")
 			
 if __name__ == '__main__': 		
-	x = [3, 1, 6, 8] 	
-	y = [1, 2, 4] 
+	x = [4, 0, 4, 2] 	
+	y = [3, 4, 3] 
 	a = len(x) 
 	b = len(y) 
 	print("First polynomial is") 
